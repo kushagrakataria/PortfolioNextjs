@@ -6,7 +6,7 @@ export const heroSection: HeroSectionType = {
   title: 'Kushagra Kataria.',
   tagline: 'Web Developer & Designer.',
   description:
-    "Am just a student :)",
+    "A curious engineering student with a passion for problem-solving. Whether it’s circuits, code, or coffee, count me in! 🚀🔌☕",
   specialText: 'Available for freelance',
   cta: {
     title: 'see my resume',

@@ -28,7 +28,7 @@ export const projectsSection: ProjectsSectionType = {
       url: '/404',
       repo: '/404',
       img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/Edumile%20.png?raw=true',
-      year: 2023,
+      year: 2022,
       tags: ['Figma', 'Android Studio'],
     },
     {
@@ -47,7 +47,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://youtu.be/qXFDHQ99loA',
       repo: '/404',
       img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/Promo%20Video%20Contest.jpg?raw=true',
-      year: 2022,
+      year: 2021,
       tags: ['videoedit',],
     },
     {
@@ -56,7 +56,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://youtu.be/XrjgLw_iYzg',
       repo: '/404',
       img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/REVOLUTION%20OF%20EDUCATION.jpg?raw=true',
-      year: 2022,
+      year: 2021,
       tags: ['videoedit'],
     },
     // {

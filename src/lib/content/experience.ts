@@ -30,7 +30,7 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'Emicon advisory services',
       companyUrl: 'https://www.emiconglobal.com/',
-      role: 'frontend developer',
+      role: 'Intern Web Developer',
       started: 'July 2022',
       upto: 'August 2022',
       tasks: [

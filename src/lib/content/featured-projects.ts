@@ -11,7 +11,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       tasks:
         "A method to turn waste carbon into usefull products, that may efficiently handle the issue of waste management and carbon emissions while producing a lasting and valued product.",
       url: 'https://drive.google.com/file/d/1ekUYmSmbLW0evfBRg8IuNjID-TMFPM7j/view',
-      img: '../../public/images/graphitile.png',
+      img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/graphitile.jpg?raw=true',
       tags: [
         'Research Paper',
         'Chemistry',
@@ -20,14 +20,14 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     },
     {
       id: getId(),
-      name: 'Velvi Matrimony',
+      name: 'SOUNDIFY',
       description:
-        'A platform that redefines the way individuals find their life partners.',
+        'IT FEST, DPS GREATER FARIDABAD',
       tasks:
-        'As a freelancer, I developed this project by planning, communicating with the client, gathering feedback, implementing UI & pages, and integrating real-time data fetching with filtering functionality.',
-      url: 'https://velvi.vercel.app/',
-      img: 'https://i.postimg.cc/tRS4GvzJ/Screenshot-2024-02-27-at-5-48-49-PM.png',
-      tags: ['NextJs', 'TypeScript', 'TailwindCSS', 'APIs'],
+        'Simple Website that explains the concept of sound, its properties and provides various sound tools for different purposes.',
+      url: 'https://soundify1.netlify.app/',
+      img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/soundify.png?raw=true',
+      tags: ['HTML/CSS', 'Js'],
     },
     {
       id: getId(),
@@ -37,17 +37,17 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'I strategically planned project milestones, led a cross-functional team, established a design system, developed the website, and integrated Stripe payments with secure authentication.',
       url: 'https://www.integraleads.xyz/',
       img: 'https://user-images.githubusercontent.com/68834718/279476369-2f69466a-71db-4da0-9afd-04f8f0efb621.jpeg',
-      tags: ['AI/ML', 'NextJs', 'TypeScript', 'TailwindCSS', 'Express'],
+      tags: ['Open AI', 'NextJs', 'TypeScript', 'TailwindCSS', 'Prisma'],
     },
     {
       id: getId(),
-      name: 'Drafton',
-      description: 'The AI-powered platform that simplifies proposal creation.',
+      name: 'Arcade Vista Interiors',
+      description: 'Website for Arcade Vista Interiors LLC.',
       tasks:
-        'Implemented NextAuth authentication, integrated Mailchimp for newsletter subscription, developed a custom hook for dark mode, created UI components in the Dashboard, and used Notion as a CMS for the blogs page.',
-      url: 'https://www.drafton.io/',
+        'Developed responsive website using HTML, CSS, and Bootstrap.',
+      url: 'https://arcadevistainteriors.com/',
       img: 'https://i.postimg.cc/4N6dsGcm/Screenshot-2024-06-17-at-11-05-22-PM.png',
-      tags: ['Open AI', 'NextJs', 'TypeScript', 'TailwindCSS', 'Prisma'],
+      tags: ['HTML', 'CSS', 'JS', 'Bootstrap'],
     },
   ],
 };

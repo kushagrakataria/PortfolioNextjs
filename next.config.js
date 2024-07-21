@@ -18,6 +18,16 @@ module.exports = {
         hostname: 'i.postimg.cc',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'github.com',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'kushagrakataria.netlify.app',
+        pathname: '/**',
+      },
     ],
   },
 };

@@ -6,6 +6,16 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
   projects: [
     {
       id: getId(),
+      name: 'Arcade Vista Interiors',
+      description: 'Website for Arcade Vista Interiors LLC.',
+      tasks:
+        'Developed responsive website using HTML, CSS, and Bootstrap.',
+      url: 'https://arcadevistainteriors.com/',
+      img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/arcadevista.png?raw=true',
+      tags: ['HTML', 'CSS', 'JS', 'Bootstrap'],
+    },
+    {
+      id: getId(),
       name: 'GRAPHITILE',
       description: 'Making day to day products with recycled carbon:',
       tasks:
@@ -31,24 +41,15 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     },
     {
       id: getId(),
-      name: 'Integra',
-      description: 'An AI-Powered Leads Generation Platform.',
+      name: 'DEWA',
+      description: 'Car Charging Bot',
       tasks:
-        'I strategically planned project milestones, led a cross-functional team, established a design system, developed the website, and integrated Stripe payments with secure authentication.',
-      url: 'https://www.integraleads.xyz/',
-      img: 'https://user-images.githubusercontent.com/68834718/279476369-2f69466a-71db-4da0-9afd-04f8f0efb621.jpeg',
-      tags: ['Open AI', 'NextJs', 'TypeScript', 'TailwindCSS', 'Prisma'],
+        'Made a varible charging bot enabled by AI and robotics that can charge the parked car ',
+      url: 'https://www.youtube.com/watch?v=biVpq5wru4c',
+      img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/DEWA.jpg?raw=true',
+      tags: ['AI/ML', 'Python', 'Raspberry Pi', 'Robotics',],
     },
-    {
-      id: getId(),
-      name: 'Arcade Vista Interiors',
-      description: 'Website for Arcade Vista Interiors LLC.',
-      tasks:
-        'Developed responsive website using HTML, CSS, and Bootstrap.',
-      url: 'https://arcadevistainteriors.com/',
-      img: 'https://i.postimg.cc/4N6dsGcm/Screenshot-2024-06-17-at-11-05-22-PM.png',
-      tags: ['HTML', 'CSS', 'JS', 'Bootstrap'],
-    },
+
   ],
 };
 

@@ -8,8 +8,7 @@ export const navbarSection: NavbarSectionType = {
     { name: 'experience', url: '/#experience' },
     { name: 'projects', url: '/#projects' },
     { name: 'contact', url: '/#contact' },
-    { name: 'cp assignment', url: 'https://docs.google.com/document/d/1DMVKMQdt8mIMe2e1kM41S-4sM-qpsXqf_pEJTMw-5x8/edit?usp=sharing' },
-
+    
   ],
   cta: {
     title: 'resume',

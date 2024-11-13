@@ -16,6 +16,16 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     },
     {
       id: getId(),
+      name: 'NSUTTHON',
+      description: 'Frontend for a bot made in NSUTTHON, Hackathon',
+      tasks:
+        'Made a frontend for a bot that was made in NSUTTHON, Hackathon',
+      url: 'https://fixerbot.netlify.app',
+      img: 'https://github.com/kushagrakataria/PortfolioNextjs/blob/main/public/images/arcadevista.png?raw=true',
+      tags: ['HTML', 'CSS', 'JS', 'Bootstrap'],
+    },
+    {
+      id: getId(),
       name: 'GRAPHITILE',
       description: 'Making day to day products with recycled carbon:',
       tasks:
